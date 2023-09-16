@@ -1,0 +1,11 @@
+C:\Users\ANISH\source\repos\Strategy\StrategyLib\bin\Debug\net6.0\StrategyDesignPattern.deps.json
+C:\Users\ANISH\source\repos\Strategy\StrategyLib\bin\Debug\net6.0\StrategyDesignPattern.dll
+C:\Users\ANISH\source\repos\Strategy\StrategyLib\bin\Debug\net6.0\StrategyDesignPattern.pdb
+C:\Users\ANISH\source\repos\Strategy\StrategyLib\obj\Debug\net6.0\StrategyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANISH\source\repos\Strategy\StrategyLib\obj\Debug\net6.0\StrategyDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ANISH\source\repos\Strategy\StrategyLib\obj\Debug\net6.0\StrategyDesignPattern.AssemblyInfo.cs
+C:\Users\ANISH\source\repos\Strategy\StrategyLib\obj\Debug\net6.0\StrategyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\ANISH\source\repos\Strategy\StrategyLib\obj\Debug\net6.0\StrategyDesignPattern.dll
+C:\Users\ANISH\source\repos\Strategy\StrategyLib\obj\Debug\net6.0\refint\StrategyDesignPattern.dll
+C:\Users\ANISH\source\repos\Strategy\StrategyLib\obj\Debug\net6.0\StrategyDesignPattern.pdb
+C:\Users\ANISH\source\repos\Strategy\StrategyLib\obj\Debug\net6.0\ref\StrategyDesignPattern.dll
